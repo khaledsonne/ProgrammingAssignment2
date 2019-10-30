@@ -29,7 +29,6 @@ makecachematrix <- function(x = matrix()) {
   list(set = set, get = get, setInverse = setInverse, getInverse)
 }
 
-
 ## Write a short comment describing this function
 
 ## Answer of Q 2 "cacheSolve"
